@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <el-alert
+      title="欢迎进入奇点校园管理后台"
+      type="error"
+      :closable="false"
+    >
+    </el-alert>
+  </div>
+</template>
