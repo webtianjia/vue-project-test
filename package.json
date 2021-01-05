@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ajv": "^6.5.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.4.9",
     "font-awesome": "^4.7.0",
     "qiniu-js": "^2.5.3",
